@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" role="img" aria-labelledby="title">
+  <title id="title">Wasabi demonstration logo for a light background</title>
+  <g transform="translate(24 24)">
+    <rect width="152" height="152" rx="42" fill="#E8F8EE"/>
+    <path d="M31 49 61 125 76 82l15 43 30-76" fill="none" stroke="#23884F" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="122" cy="47" r="13" fill="#F1A62B"/>
+  </g>
+  <text x="214" y="123" fill="#174B32" font-family="Arial, Helvetica, sans-serif" font-size="94" font-weight="700" letter-spacing="-4">Wasabi</text>
+  <text x="525" y="122" fill="#5C7B6A" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" letter-spacing="6">DEMO</text>
+</svg>
