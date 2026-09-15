@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" role="img" aria-labelledby="title">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 24 800 152" role="img" aria-labelledby="title">
   <title id="title">Google demonstration logo for a light background</title>
   <g transform="translate(24 24)">
     <rect width="152" height="152" rx="42" fill="#F4F6FF"/>
     <circle cx="76" cy="76" r="50" fill="none" stroke="#5B6EF5" stroke-width="20" stroke-linecap="round" stroke-dasharray="255 64" transform="rotate(-42 76 76)"/>
     <path d="M85 76h42" stroke="#F05B72" stroke-width="20" stroke-linecap="round"/>
   </g>
-  <text x="214" y="123" fill="#1F2A44" font-family="Arial, Helvetica, sans-serif" font-size="94" font-weight="700" letter-spacing="-3">Google</text>
-  <text x="515" y="122" fill="#67738A" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600" letter-spacing="6">DEMO</text>
+  <text x="214" y="136" fill="#1F2A44" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="700" letter-spacing="-4">Google</text>
+  <text x="630" y="135" fill="#67738A" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="600" letter-spacing="7">DEMO</text>
 </svg>
