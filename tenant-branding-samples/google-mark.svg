@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title">
+  <title id="title">Google demonstration logo mark</title>
+  <rect x="12" y="12" width="176" height="176" rx="52" fill="#F4F6FF"/>
+  <circle cx="100" cy="100" r="57" fill="none" stroke="#5B6EF5" stroke-width="24" stroke-linecap="round" stroke-dasharray="290 74" transform="rotate(-42 100 100)"/>
+  <path d="M110 100h48" stroke="#F05B72" stroke-width="24" stroke-linecap="round"/>
+</svg>
