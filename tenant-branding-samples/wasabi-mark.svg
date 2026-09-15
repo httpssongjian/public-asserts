@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="title">
+  <title id="title">Wasabi demonstration logo mark</title>
+  <rect x="12" y="12" width="176" height="176" rx="52" fill="#E8F8EE"/>
+  <path d="M42 61 77 143l23-57 23 57 35-82" fill="none" stroke="#23884F" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="150" cy="57" r="14" fill="#F1A62B"/>
+</svg>
